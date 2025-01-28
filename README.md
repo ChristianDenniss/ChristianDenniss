@@ -1,7 +1,8 @@
 # Hi, I’m @ChristianDenniss
 
 ### About Me:
-I'm passionate about creating and working on **innovative projects** that push the boundaries of technology. Whether it's solving a unique problem or building something groundbreaking, I'm always looking for opportunities to learn and grow.
+I'm passionate about working on meaningful projects that tackle real-world problems and provide valuable solutions. Whether it's improving existing systems, collaborating on new ideas, or refining technology to make it more efficient, I enjoy the process of learning and growing through each challenge I take on. I'm always eager to expand my skill set and contribute to impactful work.
+
 
 ### I'm currently learning and using:
 - **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL
