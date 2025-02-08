@@ -1,4 +1,4 @@
-# Hi, I’m @ChristianDenniss
+# Hi, I’m @Christian Dennis
 
 ### About Me:
 I'm passionate about working on meaningful projects that tackle real-world problems and provide valuable solutions. Whether it's improving existing systems, collaborating on new ideas, or refining technology to make it more efficient, I enjoy the process of learning and growing through each challenge I take on. I'm always eager to expand my skill set and contribute to impactful work.
