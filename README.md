@@ -11,7 +11,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
   - Backend: NodeJS
   - Build Tools: Vite
   - Databases: PostgreSQL, SQLite
-  - Other: Docker, Google Colab, Slack
+  - Other: Docker, TablePlus, Google Colab, Slack
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
