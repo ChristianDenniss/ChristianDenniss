@@ -7,7 +7,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 ### I'm currently learning and using:
 - **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL
 - **Tools & Frameworks**: 
-  - Frontend: React, ReactJS, TypeScript
+  - Frontend: React, ReactJS, JavaFX (applications)
   - Backend: NodeJS
   - Build Tools: Vite
   - Databases: PostgreSQL, SQLite
