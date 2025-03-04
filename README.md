@@ -18,7 +18,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 - **Focus**: I'm looking to dive into **project collaboration** and **team building** while utilizing my own strengths to their full potential for optimal project completion.
 
 ### How to reach me:
-You can email me at [aottgpvp@gmail.com](mailto:aottgpvp@gmail.com), and we can go from there
+You can email me at [aottgpvp@gmail.com](mailto:aottgpvp@gmail.com) or [e65t3p@unb.com](mailto:e65t3p@unb.com), and we can go from there
 
 ### Fact About Me:
 I'm an outdoors enthusiast who enjoys going to the gym, playing recreational sports with friends, and reading whenever I'm not studying or working on my latest project.
