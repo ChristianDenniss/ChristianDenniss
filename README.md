@@ -17,7 +17,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
 - **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential
-- **Improvement**: Additionally, I aim to deepen my knowledge and understanding of the tools I’m currently using, including Vite, React, NodeJS, TypeORM, and other technologies in my stack, to improve efficiency and create more flexible solutions.
+- **Improvement**: Additionally, I aim to deepen my knowledge and understanding of the tools I’m currently using, including Vite, React, NodeJS, TypeORM, and all the technologies in my stack, to improve efficiency and create more flexible solutions.
 
 ### How to reach me:
 You can email me at [aottgpvp@gmail.com](mailto:aottgpvp@gmail.com) or [e65t3@unb.com](mailto:e65t3@unb.com), and we can go from there
