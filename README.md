@@ -10,6 +10,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
   - Frontend: React, ReactJS, JavaFX (applications)
   - Backend: NodeJS, Postgress, ORMs (TypeORM), RESTful APIs
   - Build Tools: Vite
+  - Test Tools: Jest,
   - Databases: PostgreSQL, SQLite
   - Other: Docker, TablePlus, Google Colab, Slack
 
