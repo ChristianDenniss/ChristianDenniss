@@ -8,7 +8,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 - **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL
 - **Tools & Frameworks**: 
   - Frontend: React, ReactJS, JavaFX (applications)
-  - Backend: NodeJS
+  - Backend: NodeJS, Postgress, ORMs (TypeORM), RESTful APIs
   - Build Tools: Vite
   - Databases: PostgreSQL, SQLite
   - Other: Docker, TablePlus, Google Colab, Slack
