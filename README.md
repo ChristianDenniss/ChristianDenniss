@@ -12,7 +12,7 @@ I'm passionate about working on meaningful projects that tackle real-world probl
   - Build Tools: Vite
   - Test Tools: Jest,
   - Databases: PostgreSQL, SQLite
-  - Other: Docker, TablePlus, Google Colab, Slack
+  - Other: Docker, Postman, TablePlus, Google Colab, Slack
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
