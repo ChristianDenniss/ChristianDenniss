@@ -5,17 +5,19 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 
 
 ### I'm currently learning and using:
-- **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL
-- **Tools & Frameworks**: 
-  - Frontend: React, ReactJS, JavaFX (applications)
-  - Backend: NodeJS, Postgress, ORMs (TypeORM), RESTful APIs
-  - Build Tools: Vite
-  - Test Tools: Jest,
-  - Databases: PostgreSQL, SQLite
-  - Other Tools: Docker, SourceTree, Postman, TablePlus, BitBucket, Jira, Google Colab, Slack, 
+- **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL  
+- **Tools & Frameworks**:  
+  - **Frontend**: React, React Router, JavaFX (applications)  
+  - **Backend**: Node.js, Express, TypeORM (ORM), Zod (schema validation), RESTful APIs  
+  - **Build Tools**: Vite, npm  
+  - **Test Tools**: Jest  
+  - **Databases**: PostgreSQL, SQLite, MongoDB  
+  - **Collaboration & DevOps**: Bitbucket, SourceTree, Jira, Slack  
+  - **Other Tools**: Docker, Postman, TablePlus, Google Colab  
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
+- **Areas**: 
 - **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential
 - **Improvement**: Additionally, I aim to deepen my knowledge and understanding of the tools I’m currently using, including Vite, React, NodeJS, TypeORM, and all the technologies in my stack, to improve efficiency and create more flexible solutions.
 
