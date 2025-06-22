@@ -4,16 +4,22 @@
 I'm passionate about working on meaningful projects that tackle real-world problems and provide valuable solutions. Whether it's improving existing systems, collaborating on new ideas, or refining technology to make it more efficient, I enjoy the process of learning and growing through each challenge I take on. I'm always eager to expand my skill set and contribute to impactful work.
 
 
-### I'm currently learning and using:
-- **Languages**: C++, Java, JavaScript, Python, TypeScript, SQL  
-- **Tools & Frameworks**:  
-  - **Frontend**: React, React Router, JavaFX (applications)  
-  - **Backend**: Node.js, Express, TypeORM (ORM), Zod (schema validation), RESTful APIs  
-  - **Build Tools**: Vite, npm  
-  - **Test Tools**: Jest  
-  - **Databases**: PostgreSQL, SQLite, MongoDB  
-  - **Collaboration & DevOps**: Bitbucket, SourceTree, Jira, Slack  
-  - **Other Tools**: Docker, Postman, TablePlus, Google Colab  
+### Technical Skills
+
+| Category | Stack / Tools |
+| --- | --- |
+| **Languages** | C++, Java, JavaScript, TypeScript, Python, SQL |
+| **Frontend** | React, React Router, JavaFX |
+| **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod |
+| **Databases** | PostgreSQL, SQLite, MongoDB |
+| **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale |
+| **Testing** | Jest |
+| **IDEs & Editors** | Cursor IDE, VS Code, BlueJ, jGRASP |
+| **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack |
+| **AI & LLMs** | Gemini Pro 2.5, Anthropic Claude, OpenAI o3 |
+| **Data & Docs** | Mermaid, Miro, Orval, Swagger, Google Sheets |
+| **Utilities** | Postman, TablePlus, Google Colab |
+
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
