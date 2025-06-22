@@ -1,10 +1,10 @@
 # Hi, I’m @Christian Dennis
 
 ### About Me:
-I'm passionate about working on meaningful projects that tackle real-world problems and provide valuable solutions. Whether it's improving existing systems, collaborating on new ideas, or refining technology to make it more efficient, I enjoy the process of learning and growing through each challenge I take on. I'm always eager to expand my skill set and contribute to impactful work.
+I like writing code that ends up in front of real people and seeing how they interact with it. Give me a broken flow to streamline, a half-built feature to finish, or a blank slate to prototype, and I’m in. I’ve shipped React front-ends, hardened Node/TypeORM APIs, and automated release pipelines; each project teaching me something new to fold into the next one. My goal is pretty simple: build things that work, learn fast when they don’t, and leave the codebase cleaner than I found it (most of the time).
 
 
-### Technical Skills
+### Technical Experience and Skills
 
 | Category | Stack / Tools |
 | --- | --- |
@@ -15,11 +15,10 @@ I'm passionate about working on meaningful projects that tackle real-world probl
 | **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale |
 | **Testing** | Jest |
 | **IDEs & Editors** | Cursor IDE, VS Code, BlueJ, jGRASP |
-| **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack |
+| **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
 | **AI & LLMs** | Gemini Pro 2.5, Anthropic Claude, OpenAI o3 |
 | **Data & Docs** | Mermaid, Miro, Orval, Swagger, Google Sheets |
 | **Utilities** | Postman, TablePlus, Google Colab |
-
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
