@@ -28,6 +28,3 @@ I like writing code that ends up in front of real people and seeing how they int
 
 ### How to reach me:
 You can email me at [aottgpvp@gmail.com](mailto:aottgpvp@gmail.com) or [e65t3@unb.com](mailto:e65t3@unb.com), and we can go from there
-
-### Fact About Me:
-I'm an outdoors enthusiast who enjoys going to the gym, playing recreational sports with friends, and reading whenever I'm not studying or working on my latest project.
