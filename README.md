@@ -16,7 +16,7 @@ I like writing code that ends up in front of real people and seeing how they int
 | **Testing** | Jest |
 | **IDEs & Editors** | Cursor IDE, VS Code, BlueJ, jGRASP |
 | **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **AI & LLMs** | Gemini Pro 2.5, Anthropic Claude, OpenAI o3 |
+| **AI & LLMs** | Gemini Pro 2.5 and CLI, Anthropic Claude Code, OpenAI o3,  |
 | **Data & Docs** | Mermaid, Miro, Orval, Swagger, Google Sheets |
 | **Utilities** | Postman, TablePlus, Google Colab |
 
