@@ -12,7 +12,7 @@ I like writing code that ends up in front of real people and seeing how they int
 | **Frontend** | React, React Router, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
-| **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale |
+| **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale, Vercel, supabase |
 | **Testing** | Jest |
 | **IDEs & Editors** | Cursor IDE, VS Code, BlueJ, jGRASP |
 | **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
