@@ -8,7 +8,7 @@ I like writing code that ends up in front of real people and seeing how they int
 
 | Category | Stack / Tools |
 | --- | --- |
-| **Languages** | C++, Java, JavaScript, TypeScript, Python, SQL |
+| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL |
 | **Frontend** | React, React Router, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
