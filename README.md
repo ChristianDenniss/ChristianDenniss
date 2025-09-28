@@ -14,9 +14,9 @@ I like writing code that ends up in front of real people and seeing how they int
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale, Vercel, supabase |
 | **Testing** | Jest |
-| **IDEs & Editors** | Cursor IDE, VS Code, BlueJ, jGRASP |
+| **IDEs & Editors** | Cursor IDE, VS Code, VS Studio, BlueJ, jGRASP |
 | **Collaboration & DevOps** | Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **AI & LLMs** | Gemini Pro 2.5 and CLI, Anthropic Claude Code, OpenAI o3,  |
+| **AI & LLMs** | Gemini Pro 2.5, Claude Code, OpenAI o3 --- Conversational Interfaces, CLI, API/SDK; researched & benchmarked |
 | **Data & Docs** | Mermaid, Miro, Orval, Swagger, Google Sheets |
 | **Utilities** | Postman, TablePlus, Google Colab |
 
