@@ -22,9 +22,8 @@ I like writing code that ends up in front of real people and seeing how they int
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)
-- **Areas**: 
-- **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential
-- **Improvement**: Additionally, I aim to deepen my knowledge and understanding of the tools I’m currently using, including Vite, React, NodeJS, TypeORM, and all the technologies in my stack, to improve efficiency and create more flexible solutions.
+- **Areas**: CyberSecurity, End to end Software development, Generative Ai spaces
+- **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential for end to end software development
 
 ### How to reach me:
 You can email me at [aottgpvp@gmail.com](mailto:aottgpvp@gmail.com) or [e65t3@unb.com](mailto:e65t3@unb.com), and we can go from there
