@@ -1,7 +1,7 @@
 # Hi, I’m @Christian Dennis
 
 ### About Me:
-I like writing code that ends up in front of real people and seeing how they interact with it. Give me a broken flow to streamline, a half-built feature to finish, or a blank slate to prototype, and I’m in. I’ve shipped React front-ends, hardened Node/TypeORM APIs, and automated release pipelines; each project teaching me something new to fold into the next one. My goal is pretty simple: build things that work, learn fast when they don’t, and leave the codebase cleaner than I found it (most of the time).
+I like writing code that ends up in front of real people and seeing how they interact with it. My end goal is pretty simple; build things that work, learn when they don’t, and leave the codebase cleaner than I found it (most of the time).
 
 
 ### Technical Experience and Skills
