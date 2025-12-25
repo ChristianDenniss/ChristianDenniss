@@ -12,7 +12,7 @@ I like writing code that ends up in front of real people and seeing how they int
 | --- | --- |
 | **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL |
 | **Frontend** | React, React Router, JavaFX |
-| **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod |
+| **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod, Axios |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Build & Tooling** | Vite, npm, Docker, Coolify, Tailscale, Vercel, supabase |
 | **Testing** | Jest |
