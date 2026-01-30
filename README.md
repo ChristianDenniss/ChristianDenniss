@@ -8,7 +8,7 @@ I like writing code that ends up in front of real people and seeing how they int
 <details>
   <summary><b>Technical Experience and Skills</b></summary>
 
-| Category | Stack / Tools |
+| Category | Stack / Tools | 
 | --- | --- |
 | **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL |
 | **Frontend** | React, React Router, JavaFX |
