@@ -28,7 +28,7 @@ I like writing code that ends up in front of real people and seeing how they int
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang, Scala (and any other languages depending on the project's specific needs)  
-- **Areas**: CyberSecurity, End to end Software development, Generative Ai spaces  
+- **Areas**: CyberSecurity, Database optimization and genral backend skillsets, End to end Software development, Generative Ai spaces  
 - **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential for end to end software development  
 
 ---
