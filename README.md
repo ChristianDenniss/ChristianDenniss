@@ -29,7 +29,7 @@ I like writing code that ends up in front of real people and seeing how they int
 ### I’m looking to expand my knowledge into:
 - **Languages**: Rust, Kotlin, Golang (and any other languages depending on the project's specific needs)  
 - **Areas**: Securing Ai for enterprise use, CyberSecurity, Database and Backend optimizations, End to end Software development, Generative Ai spaces  
-- **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential for software development at tbe HIGHEST level!
+- **Focus**: I'm looking to dive deeper into **project collaboration** and **team building** while utilizing my own strengths to their full potential for software development at the HIGHEST level
 
 ---
 
