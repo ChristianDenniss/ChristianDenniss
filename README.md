@@ -10,20 +10,20 @@ I like writing code that ends up in front of real people and seeing how they int
 
 | Category | Stack / Tools | 
 | --- | --- |
-| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL, LC-3 |
+| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL, Binary, Assembly |
 | **Frontend** | React, Next.js, React Router, React Native, Expo, Vite, Tailwind CSS, Framer Motion, React Three Fiber, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod, Axios, JWT, Redis, CLI application design |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Search / IR / Data Systems** | Inverted Indexing, Tokenization, TF-IDF, Recency Ranking, Semantic Search, Snippet Highlighting, Incremental Index Sync |
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
-| **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization, Google Colab |
+| **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization |
 | **Cloud / Infra / Deployment** | AWS, Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
 | **Geospatial / Research** | Google Earth Engine, Semantic Engineering, Ontology Engineering, Protégé, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
 | **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Reviewing Experience |
-| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, IntelliJ IDEA, BlueJ, jGRASP |
+| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, IntelliJ IDEA, BlueJ, jGRASP, LC-3, Google Colab |
 | **Collaboration & Delivery** | GitHub, Open Source Collaboration, Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **Design & Documentation** | Figma, Mermaid, Miro, Orval, Swagger |
-| **Utilities** | Postman, TablePlus, Protégé |
+| **Design & Documentation** | Figma, Mermaid, Miro, Orval, Swagger, OpenAPI |
+| **Utilities** | Postman, TablePlus, Protégé, PageSpeed Insights |
 
 </details>
 
