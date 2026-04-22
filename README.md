@@ -10,19 +10,19 @@ I like writing code that ends up in front of real people and seeing how they int
 
 | Category | Stack / Tools | 
 | --- | --- |
-| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL |
+| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL, LC-3 |
 | **Frontend** | React, Next.js, React Router, React Native, Expo, Vite, Tailwind CSS, Framer Motion, React Three Fiber, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod, Axios, JWT, Redis, CLI application design |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Search / IR / Data Systems** | Inverted Indexing, Tokenization, TF-IDF, Recency Ranking, Semantic Search, Snippet Highlighting, Incremental Index Sync |
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
-| **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization |
-| **Cloud / Infra / Deployment** | Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
+| **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization, Google Colab |
+| **Cloud / Infra / Deployment** | AWS, Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
 | **Geospatial / Research** | Google Earth Engine, Ontologies, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
-| **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Review |
-| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, BlueJ, jGRASP |
+| **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Reviewing Experience |
+| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, IntelliJ IDEA, BlueJ, jGRASP |
 | **Collaboration & Delivery** | GitHub, Open Source Collaboration, Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **Design / API Docs / Utilities** | Figma, SVG pipeline tooling, Mermaid, Miro, Orval, Swagger, Postman, TablePlus, Google Colab |
+| **Design / API Docs / Utilities** | Figma, SVG pipeline tooling, Mermaid, Miro, Orval, Swagger, Postman, TablePlus |
 
 </details>
 
