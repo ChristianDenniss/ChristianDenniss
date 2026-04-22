@@ -30,9 +30,9 @@ I like writing code that ends up in front of real people and seeing how they int
 ---
 
 ### I’m looking to expand my knowledge into:
-- **Languages**: Rust, Kotlin, Golang (and other languages depending on project needs)  
-- **Areas**: AI security for enterprise use, cybersecurity, database and backend optimization, distributed systems, and end-to-end software delivery  
-- **Focus**: Deepen project collaboration and team building while continuing to ship production-ready software with measurable impact
+- **Languages**: Golang, Rust, Kotlin (and any other languages depending on project needs!)  
+- **Areas**: AI security for enterprise use, cybersecurity, database and backend optimization, distributed systems, Kubernetes, AWS hosting, and end-to-end software delivery  
+- **Focus**: Deepen project collaboration and team building skills while still continuing to ship smart production-ready software with REAL impact
 
 ---
 
