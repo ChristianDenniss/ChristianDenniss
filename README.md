@@ -18,11 +18,12 @@ I like writing code that ends up in front of real people and seeing how they int
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
 | **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization, Google Colab |
 | **Cloud / Infra / Deployment** | AWS, Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
-| **Geospatial / Research** | Google Earth Engine, Ontologies, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
+| **Geospatial / Research** | Google Earth Engine, Semantic Engineering, Ontology Engineering, Protégé, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
 | **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Reviewing Experience |
 | **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, IntelliJ IDEA, BlueJ, jGRASP |
 | **Collaboration & Delivery** | GitHub, Open Source Collaboration, Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **Design / API Docs / Utilities** | Figma, SVG pipeline tooling, Mermaid, Miro, Orval, Swagger, Postman, TablePlus |
+| **Design & Documentation** | Figma, Mermaid, Miro, Orval, Swagger |
+| **Utilities** | Postman, TablePlus, Protégé |
 
 </details>
 
