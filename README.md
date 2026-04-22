@@ -6,7 +6,7 @@ I like writing code that ends up in front of real people and seeing how they int
 ---
 
 <details>
-  <summary><b>Technical Experience and Skills</b></summary>
+  <summary><b>Technical Experience and Skills From Past Projects</b></summary>
 
 | Category | Stack / Tools | 
 | --- | --- |
