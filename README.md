@@ -2,7 +2,7 @@
 
 ### About Me:
 I like writing code that ends up in front of real people and seeing how they interact with it. My end goal is pretty simple: build things that work, learn when they don’t, and leave the codebase cleaner than I found it (most of the time).
-
+#### Working away so most of my commits will be on my org account right now
 ---
 
 <details>
