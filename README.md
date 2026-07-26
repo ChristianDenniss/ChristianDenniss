@@ -1,7 +1,7 @@
 # Hi, I’m @Christian Dennis
 
 ### About Me:
-I like writing code that ends up in front of real people and seeing how they interact with it. My end goal is pretty simple: build things that work, learn when they don’t, and leave the codebase cleaner than I found it (most of the time).
+I like writing code that ends up in front of people. My end goal is pretty simple: build things that work, learn when they don’t, and iterate.
 #### Most of my commits will be on my org account right now (https://github.com/christiandennisTroj)
 ---
 
@@ -10,9 +10,9 @@ I like writing code that ends up in front of real people and seeing how they int
 
 | Category | Stack / Tools | 
 | --- | --- |
-| **Languages** | C++, Java, JavaScript, TypeScript, Python, C, SQL, Binary, Assembly |
+| **Languages** | Java, TypeScript, C, Go, SQL, Python, JavaScript, Binary, Assembly |
 | **Frontend** | React, Next.js, React Router, React Native, Expo, Vite, Tailwind CSS, Framer Motion, React Three Fiber, JavaFX |
-| **Backend** | Node.js, Express, RESTful APIs, TypeORM, Zod, Axios, JWT, Redis, CLI application design |
+| **Backend** | Node.js, Express, RESTful APIs, gRPC, TypeORM, Zod, Axios, JWT, Redis, Keycloak, Cuda, CLI application design |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Search / IR / Data Systems** | Inverted Indexing, Tokenization, TF-IDF, Recency Ranking, Semantic Search, Snippet Highlighting, Incremental Index Sync, B-tree Indexing, Composite B-tree Indexing, Partial Indexes, Covering Indexes (INCLUDE), Hash Indexes, GIN Indexes, GiST Indexes, `tsvector` / `tsquery`, `pg_trgm` |
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
@@ -30,9 +30,9 @@ I like writing code that ends up in front of real people and seeing how they int
 ---
 
 ### I’m looking to expand my knowledge into:
-- **Languages**: Golang, Rust, Kotlin (and any other languages depending on project needs!)  
+- **Languages**: C++ & Golang (further), Rust, Kotlin (and any other languages depending on project needs!)  
 - **Areas**: AI security for enterprise use, cybersecurity, database and backend optimization, distributed systems, Kubernetes, AWS hosting, and end-to-end software delivery  
-- **Focus**: Deepen project collaboration and team building skills while still continuing to ship smart production-ready software with REAL impact
+- **Focus**: Ship fast with gen-AI while still understanding the code and PR's I push, Deepen project collaboration to push software with REAL impact and users.
 
 ---
 
