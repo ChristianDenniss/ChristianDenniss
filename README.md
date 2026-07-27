@@ -20,10 +20,10 @@ I like writing code that ends up in front of people. My end goal is pretty simpl
 | **Cloud / Infra / Deployment** | AWS, Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
 | **Geospatial / Research** | Google Earth Engine, Semantic Engineering, Ontology Engineering, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
 | **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Reviewing Experience |
-| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio, IntelliJ IDEA, BlueJ, jGRASP, LC-3, Google Colab |
+| **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio (when I write c++), IntelliJ IDEA, BlueJ, jGRASP, LC-3, Google Colab |
 | **Collaboration & Delivery** | GitHub, Open Source Collaboration, Bitbucket, SourceTree, Jira, Slack, Discord, Paired Programming |
-| **Design & Documentation** | Figma, Mermaid, Miro, Orval, Swagger, OpenAPI |
-| **Utilities** | Postman, TablePlus, Protégé, PageSpeed Insights |
+| **Design & Documentation** | Figma, Mermaid, Miro, Orval, Swagger, OpenAPI, many other editor and design tools for diagraming |
+| **Utilities** | Postman, Bruno, TablePlus, Protégé, PageSpeed Insights, my own custom CLI's  |
 
 </details>
 
