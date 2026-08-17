@@ -10,10 +10,10 @@ I like writing code that ends up in front of people. My end goal is pretty simpl
 
 | Category | Stack / Tools | 
 | --- | --- |
-| **Languages** | Java, TypeScript, C, Go, SQL, Python, JavaScript, Binary, Assembly |
+| **Languages** | Java, TypeScript, C, Go, SQL, Python, JavaScript, Binary/Assembly (The basics) |
 | **Frontend** | React, Next.js, React Router, React Native, Expo, Vite, Tailwind CSS, Framer Motion, React Three Fiber, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, gRPC, TypeORM, Zod, Axios, JWT, Redis, Keycloak, Cuda, CLI application design |
-| **Databases** | PostgreSQL, SQLite, MongoDB |
+| **Databases** | PostgreSQL, SQLite, MongoDB, Raven |
 | **Search / IR / Data Systems** | Inverted Indexing, Tokenization, TF-IDF, Recency Ranking, Semantic Search, Snippet Highlighting, Incremental Index Sync, B-tree Indexing, Composite B-tree Indexing, Partial Indexes, Covering Indexes (INCLUDE), Hash Indexes, GIN Indexes, GiST Indexes, `tsvector` / `tsquery`, `pg_trgm` |
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
 | **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization |
