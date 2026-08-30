@@ -1,7 +1,7 @@
 # Hi, I’m @Christian Dennis
 
 ### About Me:
-I like writing code that ends up in front of people. My end goal is pretty simple: build things that work, learn when they don’t, and iterate.
+I like writing code that ends up in front of people. My end goal is pretty simple: build things that work, learn when they don’t, and iteratE.
 #### Most of my commits will be on my org account right now (https://github.com/christiandennisTroj)
 ---
 
@@ -31,7 +31,7 @@ I like writing code that ends up in front of people. My end goal is pretty simpl
 
 ### I’m looking to expand my knowledge into:
 - **Languages**: C++ & Golang (further), Rust, Kotlin (and any other languages depending on project needs!)  
-- **Areas**: AI security for enterprise use, cybersecurity, database and backend optimization, distributed systems, Kubernetes, AWS hosting, and end-to-end software delivery  
+- **Areas**: AI security for enterprise use, graphQL, cybersecurity, database and backend optimization, distributed systems, Kubernetes, AWS hosting, andall around end-to-end software delivery  
 - **Focus**: Ship fast with gen-AI while still understanding the code and PR's I push, Deepen project collaboration to push software with REAL impact and users.
 
 ---
