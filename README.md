@@ -17,7 +17,7 @@ I like writing code that ends up in front of people. My end goal is pretty simpl
 | **Search / IR / Data Systems** | Inverted Indexing, Tokenization, TF-IDF, Recency Ranking, Semantic Search, Snippet Highlighting, Incremental Index Sync, B-tree Indexing, Composite B-tree Indexing, Partial Indexes, Covering Indexes (INCLUDE), Hash Indexes, GIN Indexes, GiST Indexes, `tsvector` / `tsquery`, `pg_trgm` |
 | **Document / Data Processing** | Apache PDFBox, Apache POI, Google Sheets API, Data Scraping, Data Aggregation, ETL-style preprocessing |
 | **AI / ML / Analytics** | OpenAI API, Prompt Engineering, PCA, Predictive Modelling, Statistical Analysis, Data Visualization |
-| **Cloud / Infra / Deployment** | AWS, Docker, Coolify, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
+| **Cloud / Infra / Deployment** | AWS, K8s, CloudFlare/workers, Coolify, Docker, Tailscale, Vercel, Supabase, Fly.io, Maven Shade (fat JAR packaging) |
 | **Geospatial / Research** | Google Earth Engine, Semantic Engineering, Ontology Engineering, Digital Twin Modelling, Geospatial Analytics, Satellite Data Workflows |
 | **Testing & Quality** | Jest, Unit Testing, Vulnerability Assessment, Production Monitoring, PR Reviewing Experience |
 | **IDEs & Editors** | Cursor IDE, VS Code, Visual Studio (when I write c++), IntelliJ IDEA, BlueJ, jGRASP, LC-3, Google Colab |
