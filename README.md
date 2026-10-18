@@ -10,7 +10,7 @@ I like writing code that ends up in front of people. My end goal is pretty simpl
 
 | Category | Stack / Tools | 
 | --- | --- |
-| **Languages** | Java, TypeScript, C, Go, SQL, Python, JavaScript, Binary/Assembly (The basics) |
+| **Languages** | Java, TypeScript, C, Go, SQL, Python, JavaScript, Binary/Assembly (The basics) | 
 | **Frontend** | React, Next.js, React Router, React Native, Expo, Vite, Tailwind CSS, Framer Motion, React Three Fiber, JavaFX |
 | **Backend** | Node.js, Express, RESTful APIs, gRPC, CUDA and Bare metal, (Type)ORM's, Zod, Axios, JWT, Redis, Keycloak, Cuda, CLI application design |
 | **Databases** | PostgreSQL, SQLite, MongoDB, Raven |
