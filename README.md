@@ -1,6 +1,5 @@
 # Hi, I’m @Christian Dennis
 
-### About Me:
 I like writing code that ends up in front of people
 #### Most of my commits will be scattered across here, my org accounts, and other platforms 
 ---
